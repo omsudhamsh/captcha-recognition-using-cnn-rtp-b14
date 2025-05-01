@@ -1,0 +1,2 @@
+python CaptchaRecognition.py
+pause
